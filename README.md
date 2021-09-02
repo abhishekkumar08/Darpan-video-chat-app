@@ -70,6 +70,12 @@ npm run start
 
 <p align="center"><img src="https://media.tenor.com/images/b562ddcfb131e962f9dfa01bd32a30d1/tenor.gif" width=20%></p>
 
+## Screenshots
+
+![image](https://user-images.githubusercontent.com/59651136/131911746-468dd351-4068-4a26-8a7e-8261adc9388e.png)
+![image](https://user-images.githubusercontent.com/59651136/131911850-b6c3e40b-01b0-44f6-bcec-1ae51400f3cb.png)
+
+
 ## Tech stack
 
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="65" height="65"/> </a>&nbsp;&nbsp;
