@@ -2,7 +2,6 @@ import "./App.css";
 import Notifications from "./components/Notifications";
 import Options from "./components/Options";
 import VideoPlayer from "./components/VideoPlayer";
-import Video from "./video.mp4";
 import { AppBar } from "@material-ui/core";
 import { makeStyles } from "@material-ui/core/styles";
 
@@ -43,9 +42,6 @@ function App() {
         >
           <div className="header">दर्पण-Web Chat App</div>
         </AppBar>
-        <video className="video" src={Video} loop autoPlay muted></video>
-        <div class="overlay"></div>
-
         <VideoPlayer />
         <Options>
           <Notifications />
