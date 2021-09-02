@@ -7,7 +7,6 @@
 <li>It uses material ui for the styling.
 <li>It uses react-copy-to-clipboard for copying the ID to the clipboard.
 </ul>
-<br>
 <h2>How to use the app</h2>
 <ul>
 <li>To use the app write your name and click on <b>COPY ID </b> button, as soon as you click the button your ID will be copied.
@@ -67,7 +66,7 @@ cd .\client\
 npm run start
 ```
 
-### The app started
+### The app started 🚀
 
 <p align="center"><img src="https://media.tenor.com/images/b562ddcfb131e962f9dfa01bd32a30d1/tenor.gif" width=20%></p>
 
