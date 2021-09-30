@@ -1,18 +1,18 @@
 <h1 align="center">Darpan-Video Chat App</h1>
 
 <h2>Description</h2>
-<p>Darpan is a simple video chat app, which uses <b>Web RTC Api</b> to allow us to exchange real time audio and video stream entirely in the broswer</p>
+<p>Darpan is a simple video chat app, which uses <b>Web RTC Api</b> to allow us to exchange of real time audio and video stream entirely in the broswer</p>
 <ul>
 <li>It uses peer js to handle peer to peer connections.
-<li>It uses material ui for the styling.
+<li>It uses material UI for the Styles.
 <li>It uses react-copy-to-clipboard for copying the ID to the clipboard.
 </ul>
-<h2>How to use the app</h2>
+<h2>How to use the App.</h2>
 <ul>
-<li>To use the app write your name and click on <b>COPY ID </b> button, as soon as you click the button your ID will be copied.
+<li>To use the app write your Name and Click on <b>COPY ID </b> button, as soon as you click the button your ID will be copied.
 <li>And then you can send it over to the required person
-<li>As soon as they click the <b>CALL</b> button you're going to recieve a notification about the call. 
-<li>After that you can either pic the call or hang up.</ul>
+<li>As soon as they CLICK the <b>CALL</b> button you're going to recieve a notification about the call. 
+<li>After that you can either pic the call or hang up.  </ul>
 
 ## Installing the app on your machine
 
