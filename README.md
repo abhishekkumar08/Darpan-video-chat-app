@@ -1,7 +1,7 @@
-<h1 align="center">Darpan-Video Chat App</h1>
+<h1 align="center">Darpan-Video Chat Application</h1>
 
 <h2>Description</h2>
-<p>Darpan is a simple video chat app, which uses <b>Web RTC Api</b> to allow us to exchange real time audio and video stream entirely in the broswer</p>
+<p>Darpan is a simple and robust video chat app, which uses <b>Web RTC Api</b> to allow us to exchange real time audio and video stream entirely in the broswer</p>
 <ul>
 <li>It uses peer js to handle peer to peer connections.
 <li>It uses material ui for the styling.
@@ -74,7 +74,6 @@ npm run start
 
 ![image](https://user-images.githubusercontent.com/59651136/131911746-468dd351-4068-4a26-8a7e-8261adc9388e.png)
 ![image](https://user-images.githubusercontent.com/59651136/131911850-b6c3e40b-01b0-44f6-bcec-1ae51400f3cb.png)
-
 
 ## Tech stack
 
